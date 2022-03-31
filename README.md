@@ -1,4 +1,4 @@
-# QEMU arm64 started
+# QEMU arm64 usage guide
 
 This is project for easy start of local usage of ARM64 based system via QEMU.
 Based on [this](https://futurewei-cloud.github.io/ARM-Datacenter/qemu/how-to-launch-aarch64-vm/)
